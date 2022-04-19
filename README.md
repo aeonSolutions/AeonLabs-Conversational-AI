@@ -1,3 +1,6 @@
+This if the future Repository for my Conversational AI project.
+Until then...
+
 # Snarky AI - The Meanest Voice Assistant
 [![YouTube banner](https://img.youtube.com/vi/p1eTp-xPUeU/mqdefault.jpg)](https://youtu.be/p1eTp-xPUeU)
 
